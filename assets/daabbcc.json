@@ -21,6 +21,11 @@
   "project_url": "https://github.com/selimanac/defold-daabbcc",
   "release_tags": [
     {
+      "published_at": "2026-02-01T09:48:10Z",
+      "version": "v3.0.6",
+      "zip": "https://github.com/selimanac/defold-daabbcc/archive/refs/tags/v3.0.6.zip"
+    },
+    {
       "published_at": "2025-06-27T06:50:06Z",
       "version": "v3.0.5",
       "zip": "https://github.com/selimanac/defold-daabbcc/archive/refs/tags/v3.0.5.zip"
@@ -92,6 +97,12 @@
     }
   ],
   "releases": [
+    {
+      "message": "- Create ext.properties by @vlaaad \n- Port categoryBits to query/raycast results from 3D version",
+      "published_at": "2026-02-01T09:48:10Z",
+      "tag": "v3.0.6",
+      "zip": "https://github.com/selimanac/defold-daabbcc/archive/refs/tags/v3.0.6.zip"
+    },
     {
       "message": "Fix for https://github.com/selimanac/defold-daabbcc/issues/17",
       "published_at": "2025-06-27T06:50:06Z",
