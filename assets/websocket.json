@@ -21,6 +21,11 @@
   "project_url": "https://github.com/defold/extension-websocket",
   "release_tags": [
     {
+      "published_at": "2026-02-02T05:59:59Z",
+      "version": "4.2.0",
+      "zip": "https://github.com/defold/extension-websocket/archive/refs/tags/4.2.0.zip"
+    },
+    {
       "published_at": "2025-07-24T07:24:50Z",
       "version": "4.1.1",
       "zip": "https://github.com/defold/extension-websocket/archive/refs/tags/4.1.1.zip"
@@ -127,6 +132,12 @@
     }
   ],
   "releases": [
+    {
+      "message": "CHANGE: Socket polling and receive is moved to a separate thread",
+      "published_at": "2026-02-02T05:59:59Z",
+      "tag": "4.2.0",
+      "zip": "https://github.com/defold/extension-websocket/archive/refs/tags/4.2.0.zip"
+    },
     {
       "message": "* Fixed issue when error in socket always end up in `RESULT_WOULDBLOCK`",
       "published_at": "2025-07-24T07:24:50Z",
