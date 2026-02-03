@@ -21,6 +21,11 @@
   "project_url": "https://github.com/subsoap/defos",
   "release_tags": [
     {
+      "published_at": "2026-02-03T09:27:49Z",
+      "version": "v2.8.5",
+      "zip": "https://github.com/subsoap/defos/archive/refs/tags/v2.8.5.zip"
+    },
+    {
       "published_at": "2025-12-11T14:17:18Z",
       "version": "v2.8.4",
       "zip": "https://github.com/subsoap/defos/archive/refs/tags/v2.8.4.zip"
@@ -132,6 +137,12 @@
     }
   ],
   "releases": [
+    {
+      "message": "### Dependency URL:\n\nAdd this to your game.project:\n\nhttps://github.com/subsoap/defos/archive/refs/tags/v2.8.5.zip\n\n### Changes\n\nDefOS no longer changes view size on load on HTML5 targets based on data in game.project such as:\n\n```\n[defos]\nview_width = 405\nview_height = 900\n```",
+      "published_at": "2026-02-03T09:27:49Z",
+      "tag": "v2.8.5",
+      "zip": "https://github.com/subsoap/defos/archive/refs/tags/v2.8.5.zip"
+    },
     {
       "message": "### Dependency URL:\n\nAdd this to your game.project:\n\nhttps://github.com/subsoap/defos/archive/refs/tags/v2.8.4.zip\n\n### Changes\n\nLua annotations added",
       "published_at": "2025-12-11T14:17:18Z",
