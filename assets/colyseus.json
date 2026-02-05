@@ -21,6 +21,11 @@
   "project_url": "https://github.com/colyseus/colyseus-defold",
   "release_tags": [
     {
+      "published_at": "2026-02-04T19:33:16Z",
+      "version": "0.17.0",
+      "zip": "https://github.com/colyseus/colyseus-defold/archive/refs/tags/0.17.0.zip"
+    },
+    {
       "published_at": "2025-03-05T18:13:44Z",
       "version": "0.16.1",
       "zip": "https://github.com/colyseus/colyseus-defold/archive/refs/tags/0.16.1.zip"
