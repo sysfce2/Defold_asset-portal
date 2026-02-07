@@ -20,6 +20,11 @@
   "project_url": "https://github.com/Insality/defold-saver",
   "release_tags": [
     {
+      "published_at": "2026-02-07T14:20:49Z",
+      "version": "6",
+      "zip": "https://github.com/Insality/defold-saver/archive/refs/tags/6.zip"
+    },
+    {
       "published_at": "2025-05-15T20:17:51Z",
       "version": "5",
       "zip": "https://github.com/Insality/defold-saver/archive/refs/tags/5.zip"
