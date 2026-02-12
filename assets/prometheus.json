@@ -16,6 +16,11 @@
   "project_url": "https://github.com/defold/extension-prometheus",
   "release_tags": [
     {
+      "published_at": "2026-02-12T07:09:10Z",
+      "version": "2.0.3",
+      "zip": "https://github.com/defold/extension-prometheus/archive/refs/tags/2.0.3.zip"
+    },
+    {
       "published_at": "2024-11-26T09:14:43Z",
       "version": "2.0.2",
       "zip": "https://github.com/defold/extension-prometheus/archive/refs/tags/2.0.2.zip"
@@ -37,6 +42,12 @@
     }
   ],
   "releases": [
+    {
+      "message": "FIX: Updated to new API function to unpack libs and tools via bob",
+      "published_at": "2026-02-12T07:09:10Z",
+      "tag": "2.0.3",
+      "zip": "https://github.com/defold/extension-prometheus/archive/refs/tags/2.0.3.zip"
+    },
     {
       "message": "Avoid issues when running a multi threaded build.",
       "published_at": "2024-11-26T09:14:43Z",
