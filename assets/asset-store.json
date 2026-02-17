@@ -20,6 +20,11 @@
   "project_url": "https://github.com/Insality/asset-store",
   "release_tags": [
     {
+      "published_at": "2026-02-17T09:54:51Z",
+      "version": "2",
+      "zip": "https://github.com/Insality/asset-store/archive/refs/tags/2.zip"
+    },
+    {
       "published_at": "2025-11-30T19:19:41Z",
       "version": "1",
       "zip": "https://github.com/Insality/asset-store/archive/refs/tags/1.zip"
