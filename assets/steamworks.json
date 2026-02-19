@@ -18,6 +18,11 @@
   "project_url": "https://github.com/defold/extension-steam",
   "release_tags": [
     {
+      "published_at": "2026-02-19T13:23:38Z",
+      "version": "1.13.1",
+      "zip": "https://github.com/defold/extension-steam/archive/refs/tags/1.13.1.zip"
+    },
+    {
       "published_at": "2025-12-31T09:13:03Z",
       "version": "1.13.0",
       "zip": "https://github.com/defold/extension-steam/archive/refs/tags/1.13.0.zip"
@@ -89,6 +94,12 @@
     }
   ],
   "releases": [
+    {
+      "message": "## What's Changed\n* Added lua annotations by @NaakkaDev in https://github.com/defold/extension-steam/pull/45\n* Changed CSteamID types to string in .script_api and fixed lua annotations. by @NaakkaDev in https://github.com/defold/extension-steam/pull/48\n* Fixed CreateLobby C++ method taking both params from 1. by @NaakkaDev in https://github.com/defold/extension-steam/pull/49\n\n**Full Changelog**: https://github.com/defold/extension-steam/compare/1.13.0...1.13.1",
+      "published_at": "2026-02-19T13:23:38Z",
+      "tag": "1.13.1",
+      "zip": "https://github.com/defold/extension-steam/archive/refs/tags/1.13.1.zip"
+    },
     {
       "message": "NEW: `steam.utils_is_steam_overlay_available()`\n\nThanks @swajj !",
       "published_at": "2025-12-31T09:13:03Z",
