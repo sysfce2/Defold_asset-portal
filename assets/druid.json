@@ -21,6 +21,11 @@
   "project_url": "https://github.com/Insality/druid",
   "release_tags": [
     {
+      "published_at": "2026-02-20T10:06:37Z",
+      "version": "1.2.0",
+      "zip": "https://github.com/Insality/druid/archive/refs/tags/1.2.0.zip"
+    },
+    {
       "published_at": "2026-02-17T09:03:35Z",
       "version": "1.1.7",
       "zip": "https://github.com/Insality/druid/archive/refs/tags/1.1.7.zip"
@@ -304,7 +309,7 @@
       "zip": "https://github.com/Insality/druid/archive/refs/tags/0.1.0.zip"
     }
   ],
-  "stars": 532,
+  "stars": 533,
   "tags": [
     "gui",
     "input",
