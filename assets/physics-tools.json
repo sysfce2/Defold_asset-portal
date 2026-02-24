@@ -19,10 +19,27 @@
     "Windows"
   ],
   "project_url": "https://github.com/indiesoftby/defold-physics-tools",
+  "release_tags": [
+    {
+      "published_at": "2026-02-19T11:40:37Z",
+      "version": "1.0.0",
+      "zip": "https://github.com/indiesoftby/defold-physics-tools/archive/refs/tags/1.0.0.zip"
+    }
+  ],
+  "releases": [
+    {
+      "message": "Initial",
+      "published_at": "2026-02-19T11:40:37Z",
+      "tag": "1.0.0",
+      "zip": "https://github.com/indiesoftby/defold-physics-tools/archive/refs/tags/1.0.0.zip"
+    }
+  ],
+  "stars": 13,
   "tags": [
     "Physics",
     "Tools",
     "Editor script"
   ],
+  "timestamp": 1771960312.0,
   "website_url": ""
 }
